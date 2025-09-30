@@ -1,6 +1,7 @@
 nginx
 #支持私库
-envoyproxy/ratelimit:e059638d
+redis:alpine
+#envoyproxy/ratelimit:e059638d
 #jenkins/jenkins:2.504.2-alpine-jdk17
 #jenkins/jenkins:2.479.2-alpine-jdk17
 #sonarqube:9.9.8-enterprise
