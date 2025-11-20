@@ -1,6 +1,6 @@
 nginx
 #支持私库
-sonarqube:2025.4-lta-enterprise
+sonarqube:2025.1-lta-enterprise
 #redis:alpine
 #envoyproxy/ratelimit:e059638d
 #jenkins/jenkins:2.504.2-alpine-jdk17
