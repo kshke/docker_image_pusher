@@ -1,6 +1,7 @@
 nginx
 #支持私库
-sonarqube:2025.1.4-enterprise
+sonarqube:2026.1-enterprise
+sonarqube:2026.1.4-enterprise
 #sonarqube:2025-lta-enterprise⁠
 #redis:alpine
 #envoyproxy/ratelimit:e059638d
