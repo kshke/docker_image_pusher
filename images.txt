@@ -2,6 +2,7 @@ nginx
 #支持私库
 sonarqube:2026.1-enterprise
 sonarqube:2026.1.4-enterprise
+appdynamics/java-agent:26.9.0
 #sonarqube:2025-lta-enterprise⁠
 #redis:alpine
 #envoyproxy/ratelimit:e059638d
