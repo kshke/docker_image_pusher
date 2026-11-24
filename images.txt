@@ -1,9 +1,9 @@
-nginx
+#nginx
 #支持私库
-sonarqube:2026.1-enterprise
-sonarqube:2026.1.4-enterprise
-appdynamics/java-agent:26.9.0
-alpine:3.19
+#sonarqube:2026.1-enterprise
+#sonarqube:2026.1.4-enterprise
+#appdynamics/java-agent:26.9.0
+#alpine:3.19
 #sonarqube:2025-lta-enterprise⁠
 #redis:alpine
 #envoyproxy/ratelimit:e059638d
@@ -14,3 +14,4 @@ jenkins/jenkins:2.541.3-alpine-jdk17
 #centos:centos7.7.1908
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+sonarqube:2026.1.9-enterprise
