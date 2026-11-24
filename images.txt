@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 sonarqube:2026.1.9-enterprise
 #sonarqube:2026.1-enterprise
